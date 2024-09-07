@@ -11,7 +11,7 @@ https://totolink.com.my/products/t10/
 CWE-798: Use of Hard-coded Credentials
 
 # POC
-<img width="582" alt="image" src="https://github.com/user-attachments/assets/f4e34d3a-dc19-4452-b3aa-00bee1951514">
+Omitted
 
 # Impact
 Gaining unauthorized access to the Telnet service.
